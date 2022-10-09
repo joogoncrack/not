@@ -1,0 +1,7 @@
+game.StarterGui:SetCore(
+	"SendNotification",
+	{
+		Title = "joog makes the best locks ;)",
+		Text = "",
+	}
+)
